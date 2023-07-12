@@ -1,7 +1,7 @@
 # Internet of Things Enabled Data Acquisition Framework for Smart Building Applications
 
-This is a project in which the team proposes an IoT-enabled data acquisition framework that utilizes low-cost computers, sensor modules, developed software agents, and the existing building Wi-Fi network to establish a central facility database.
 
+![test](Image/envisioned-smart-city.jpg)
 
 ## Project Team and Contributors
 
