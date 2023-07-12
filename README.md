@@ -5,7 +5,7 @@ This is a project in which the team proposes an IoT-enabled data acquisition fra
 
 ## Project Team and Contributors
 
-[Dr. Xinghua Gao](http://www.raygaoai.com/)
+[Dr. Ray Gao](http://www.raygaoai.com/)
 
 [Sheik Murad Hassan Anik (soon to be PhD)](https://www.linkedin.com/in/anik801/)
 
