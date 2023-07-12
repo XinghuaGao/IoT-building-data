@@ -7,7 +7,7 @@ In the years that followed, this research program gave rise to multiple associat
 
 - [A framework of developing machine learning models for facility life-cycle cost analysis](https://github.com/XinghuaGao/life-cycle-cost)
 
-- A human-centered approach to smart housing: data-driven building occupant persona development ([check related research paper 1](Papers/smart_housing.pdf), [check related research paper 2](Papers/ML-persona.pdf))
+- [A human-centered approach to smart housing: data-driven building occupant persona development](https://github.com/XinghuaGao/smart-housing)
   
 - Smart building data interoperability: integrated Building Information Modeling (BIM)-IoT data standards ([check related research paper 1](Papers/BACnet-IFC.pdf), [check related research paper 2](Papers/building-iot.pdf))
   
