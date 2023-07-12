@@ -7,7 +7,7 @@ This is a project in which the team proposes an IoT-enabled data acquisition fra
 
 [Dr. Xinghua Gao](http://www.raygaoai.com/)
 
-[Sheik Murad Hassan Anik](https://www.linkedin.com/in/anik801/)
+[Sheik Murad Hassan Anik (soon to be PhD)](https://www.linkedin.com/in/anik801/)
 
 [Dr. Na Meng](https://people.cs.vt.edu/nm8247/)
 
