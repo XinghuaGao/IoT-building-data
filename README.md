@@ -5,7 +5,7 @@ In the years that followed, this research program gave rise to multiple associat
 
 - Building Data Lite: a cost-effective, scalable, and portable IoT data infrastructure for indoor environment sensing ([check related research paper](Papers/BDL.pdf))
 
-- A framework of developing machine learning models for facility life-cycle cost analysis ([check related research paper](Papers/LCCA.pdf))
+- [A framework of developing machine learning models for facility life-cycle cost analysis](https://github.com/XinghuaGao/life-cycle-cost)
 
 - A human-centered approach to smart housing: building occupant persona development ([check related research paper 1](Papers/smart_housing.pdf), [check related research paper 2](Papers/ML-persona.pdf))
   
