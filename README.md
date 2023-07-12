@@ -1,15 +1,17 @@
 # Internet of Things Enabled Data Acquisition Framework for Smart Building Applications
-This is a research program initiated by Dr. Ray Gao, formerly known as Xinghua Gao, in 2018, while he was working on his PhD research under the guidance of Dr. Pardis Pishdad-Bozorgi and Dr. Dennis Shelden at the Georgia Institute of Technology. As a component of Dr. Gao’s PhD thesis, the initial idea was to use the Internet of Things (IoT) to establish the “nervous system” of buildings, thereby creating the data foundation for future smart buildings. 
+This is a research program initiated by [Dr. Ray Gao](http://www.raygaoai.com/), formerly known as Xinghua Gao, in 2018, while he was working on his Ph.D. research under the guidance of [Dr. Pardis Pishdad-Bozorgi](https://bc.gatech.edu/people/pardis-pishdad-bozorgi) and [Dr. Dennis Shelden](https://www.case.rpi.edu/people/dennis-shelded) at the Georgia Institute of Technology. As a component of Dr. Gao’s Ph.D. thesis, the initial idea was to use the Internet of Things (IoT) to establish the “nervous system” of buildings, thereby creating the data foundation for future smart buildings ([check the research paper](Papers/IoT_Framework.pdf)). 
 
 In the years that followed, this research program gave rise to multiple associated projects, including:
 
-- Building Data Lite: a cost-effective, scalable, and portable IoT data infrastructure for indoor environment sensing
-- A framework of developing machine learning models for facility life-cycle cost analysis
-- A human-centered approach to smart housing: building occupant persona development
-- Smart building interoperability: integrated Building Information Modeling (BIM)-IoT data standards
-- Assistance from the Ambient Intelligence: Cyber–physical system applications in smart buildings for cognitively declined occupants
+- Building Data Lite: a cost-effective, scalable, and portable IoT data infrastructure for indoor environment sensing ([check related research paper](Papers/BDL.pdf))
 
+- A framework of developing machine learning models for facility life-cycle cost analysis ([check related research paper](Papers/LCCA.pdf))
 
+- A human-centered approach to smart housing: building occupant persona development ([check related research paper 1](Papers/smart_housing.pdf), [check related research paper 2](Papers/ML-persona.pdf))
+  
+- Smart building interoperability: integrated Building Information Modeling (BIM)-IoT data standards ([check related research paper 1](Papers/BACnet-IFC.pdf), [check related research paper 2](Papers/building-iot.pdf))
+  
+- Assistance from the Ambient Intelligence: Cyber–physical system applications in smart buildings for cognitively declined occupants ([check related research paper](Papers/Ambient_Intelligence.pdf))
 
 ## Vision for the Future Smart City—An IoT Network of Smart Facilities
 
@@ -21,7 +23,7 @@ In the envisioned IoT-enabled smart city, a network of smart buildings forms a c
 
 ## This Repository and the Source Code
 
-This repository serves as the index for the related research results and legacy code developed in the early stages, as described in [this paper](Papers/IoT_Framework.pdf).
+This repository serves as the index for the related research results and early-stage legacy code, as described in [this paper](Papers/IoT_Framework.pdf).
 
 ## Project Team and Contributors
 
@@ -34,6 +36,10 @@ This repository serves as the index for the related research results and legacy 
 [Dr. Pardis Pishdad-Bozorgi](https://bc.gatech.edu/people/pardis-pishdad-bozorgi)
 
 [Dr. Dennis Shelden](https://www.case.rpi.edu/people/dennis-shelded)
+
+[Dr. Philip Agee](https://www.bc.vt.edu/people/agee)
+
+[Dr. Andrew McCoy](https://www.bc.vt.edu/people/mccoy)
 
 [Dr. Angelos Stavrou](https://computing.ece.vt.edu/~angelos/)
 
