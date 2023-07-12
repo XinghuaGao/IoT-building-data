@@ -3,7 +3,7 @@ This is a research program initiated by [Dr. Ray Gao](http://www.raygaoai.com/),
 
 In the years that followed, this research program gave rise to multiple associated projects, including:
 
-- Building Data Lite: a cost-effective, scalable, and portable IoT data infrastructure for indoor environment sensing ([check related research paper](Papers/BDL.pdf))
+- [Building Data Lite: a cost-effective, scalable, and portable IoT data infrastructure for indoor environment sensing](https://github.com/anik801/data_collection)
 
 - [A framework of developing machine learning models for facility life-cycle cost analysis](https://github.com/XinghuaGao/life-cycle-cost)
 
