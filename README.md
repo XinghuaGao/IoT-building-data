@@ -25,6 +25,10 @@ In the envisioned IoT-enabled smart city, a network of smart buildings forms a c
 
 This repository serves as the index for the related research results and early-stage legacy code, as described in [this paper](Papers/IoT_Framework.pdf).
 
+[rpi_code](rpi_code) contains the code that runs on the Raspberry Pi (we tested Raspberry Pi 4 model B and Raspberry Pi Zero; operating system: Raspberry Pi OS). 
+
+[server_code](server_code) contains the code that runs on the server.
+
 ## Project Team and Contributors
 
 [Dr. Ray Gao](http://www.raygaoai.com/)
