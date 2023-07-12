@@ -11,8 +11,10 @@ This is a project in which the team proposes an IoT-enabled data acquisition fra
 
 [Dr. Na Meng](https://people.cs.vt.edu/nm8247/)
 
-[Dr. Angelos Stavrou](https://computing.ece.vt.edu/~angelos/)
+[Dr. Pardis Pishdad-Bozorgi](https://bc.gatech.edu/people/pardis-pishdad-bozorgi)
 
 [Dr. Dennis Shelden](https://www.case.rpi.edu/people/dennis-shelded)
+
+[Dr. Angelos Stavrou](https://computing.ece.vt.edu/~angelos/)
 
 [Dr. Shu Tang](https://www.xjtlu.edu.cn/en/departments/academic-departments/civil-engineering/staff/shu-tang)
