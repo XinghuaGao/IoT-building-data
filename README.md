@@ -9,9 +9,11 @@ In the years that followed, this research program gave rise to multiple associat
 
 - [A human-centered approach to smart housing: data-driven building occupant persona development](https://github.com/XinghuaGao/smart-housing)
   
-- Smart building data interoperability: integrated Building Information Modeling (BIM)-IoT data standards ([check related research paper 1](Papers/BACnet-IFC.pdf), [check related research paper 2](Papers/building-iot.pdf))
+- Smart building data interoperability: integrated Building Information Modeling (BIM)-IoT data standards ([check related research paper 1](Papers/BACnet-IFC.pdf), [check related research paper 2](Papers/building-iot.pdf), [check related research paper 3](Papers/2019_Framework.pdf))
   
 - Assistance from the Ambient Intelligence: Cyber–physical system applications in smart buildings for cognitively declined occupants ([check related research paper](Papers/Ambient_Intelligence.pdf))
+
+- Cyber–physical security in smart buildings: [A graph-based simulation method](Papers/2022_graph.pdf); [Blockchain](Papers/2020_blockchain.pdf); [management solutions](Papers/2022_management.pdf)
 
 ## Vision for the Future Smart City—An IoT Network of Smart Facilities
 
