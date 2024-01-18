@@ -1,5 +1,5 @@
 # Internet of Things Enabled Data Acquisition Framework for Smart Building Applications
-This is a research program initiated by [Dr. Ray Gao](http://www.raygaoai.com/), formerly known as Xinghua Gao, in 2018, while he was working on his Ph.D. research under the guidance of [Dr. Pardis Pishdad-Bozorgi](https://bc.gatech.edu/people/pardis-pishdad-bozorgi) and [Dr. Dennis Shelden](https://www.case.rpi.edu/people/dennis-shelded) at the Georgia Institute of Technology. As a component of Dr. Gao’s Ph.D. thesis, the initial idea was to use the Internet of Things (IoT) to establish the “nervous system” of buildings, thereby creating the data foundation for future smart buildings ([check the research paper](Papers/IoT_Framework.pdf)). 
+This is a research program initiated by [Dr. Ray Gao](http://www.ray-gao.com/), formerly known as Xinghua Gao, in 2018, while he was working on his Ph.D. research under the guidance of [Dr. Pardis Pishdad-Bozorgi](https://bc.gatech.edu/people/pardis-pishdad-bozorgi) and [Dr. Dennis Shelden](https://www.case.rpi.edu/people/dennis-shelded) at the Georgia Institute of Technology. As a component of Dr. Gao’s Ph.D. thesis, the initial idea was to use the Internet of Things (IoT) to establish the “nervous system” of buildings, thereby creating the data foundation for future smart buildings ([check the research paper](Papers/IoT_Framework.pdf)). 
 
 In the years that followed, this research program gave rise to multiple associated projects, including:
 
@@ -33,7 +33,7 @@ This repository serves as the index for the related research results and early-s
 
 ## Project Team and Contributors
 
-[Dr. Ray Gao](http://www.raygaoai.com/)
+[Dr. Ray Gao](http://www.ray-gao.com/)
 
 [Sheik Murad Hassan Anik (soon to be PhD)](https://www.linkedin.com/in/anik801/)
 
